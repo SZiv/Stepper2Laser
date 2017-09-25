@@ -1,0 +1,3 @@
+1x Arduino pro micro
+Some male pin header
+A few extra female pin headers if you want to make the micro removable
